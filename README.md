@@ -10,7 +10,7 @@ I have done the analysis on the category retail trade. So the data relating to r
 4.	Copy the rows and paste these in a new excel sheet and save it.
 The analysis has been done on the new dataset.
 ## New dataset info
-The dataset contains Sales data for retail trade from Jan 1992 to May 2020.
+The dataset contains Sales data for retail trade from Jan 1992 to May 2020. It is monthly data.
 ## What has been done
 Decomposing the data into its components, ie. Trend, Seasonal component, Irregular component.
-Predicting sales values for future months and years and comparison.
+A subset of the dataset is taken for training and the remaining is taken for comparison after forecasting. 
